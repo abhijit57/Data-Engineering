@@ -2,7 +2,7 @@
 
 The architecture of the project is as shown below:
 
-! https://github.com/abhijit57/Data-Engineering/blob/main/Stock%20Market%20RTA_Kafka_E2E%20Project/Architecture.jpg
+!(https://github.com/abhijit57/Data-Engineering/blob/main/Stock%20Market%20RTA_Kafka_E2E%20Project/Architecture.jpg)
 
 ##### Notice
 
