@@ -1,8 +1,8 @@
-# Wazirx Python
+# Real Time Crypto Streaming/Analysis Using Kafka and AWS End to End Project
 
-[![Pyhton](https://img.shields.io/badge/python-3-green)](https://docs.wazirx.com)
+The architecture of the project is as shown below:
 
-This is an official Python wrapper for the Wazirx exchange REST and WebSocket APIs.
+! https://github.com/abhijit57/Data-Engineering/blob/main/Stock%20Market%20RTA_Kafka_E2E%20Project/Architecture.jpg
 
 ##### Notice
 
